@@ -1,0 +1,7 @@
+1) A la idea de conectar permanentemente las unidades del ordenador, de manera que su funcionamiento estuviera coordinado bajo un control central.
+2) Central Processing Unit, procesador o microprocesador, es el componente del ordenador que se ocupa del control y el proceso de los datos.
+3) La representación y almacenamiento de los datos, el desplazamiento interno de los datos entre los distintos componentes, La interpretación y ejecución de las instrucciones que forman los programas.
+4) Unidad de control, unidad aritmético-lógica y registros.
+5) Intel y AMD
+6) Es la unidad aritmético-lógica y es un circuito digital que calcula operaciones aritméticas y operaciones lógicas entre dos números.
+7) Es la unidad de control, toma las instrucciones de la memoria, las decodifica y las ejecuta.
