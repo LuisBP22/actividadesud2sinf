@@ -1,0 +1,45 @@
+Actividad 5
+1) Un bit es la medida de información y transmisión de datos en informática. Y un byte es una unidad que consiste de 8 bits y es el mínimo elemento de memoria.
+2) a) 43
+    b) D1
+c) 42037
+3) a) 5x10^-12 ZB
+    b) 0.032 KB
+c) 2.048x10^-3 PB
+4) Hardware se refiere a la parte física y tangible del ordenador mientras que software es lo que que se encuentra dentro y no es tangible.
+5) CPU, Memoria RAM, Ratón
+6) Cajas para las fuentes de alimentación y bahías de unidades. En el panel trasero se puede localizar conectores para los periféricos procedentes de la placa base y de las tarjetas de expansión.
+7)  Tarjeta madre o placa madre
+8) Conectar todos los componentes del ordenador al sistema
+9) Convierte la corriente alterna (AC) en una forma continua de energía que los componentes del ordenador necesitan para funcionar
+10) Es la de recuperar, interpretar, cumplir instrucciones, y operar como calculadora del sistema, pudiendo hacer operaciones aritméticas y también operaciones lógicas entre conjuntos,
+11) La función principal de la memoria RAM es cargar información y ejecutar programas de manera temporal y aleatoria, lo que permite que la computadora, el Smartphone o la tableta funcionen.
+12) Los cables que permiten unir dos elementos. Vga y usb
+
+13)
+    •  1- jack micrófono
+    • 2- rj-45 
+    • 3-jack salida de audio 
+    • 4-puertos usb 
+    • 5- jack entrada de audio
+    •  6-serie 
+    • 7-teclado
+    •  8- vga 
+    • 9 paralelo 
+    • 10- ratón
+14)
+    • 1- teclado  
+    • 2- audio optico
+    • 3- vga    
+    • 4- usb  
+    • 5- rj-45 
+    • 6- salida audio 
+    • 7- micrófono 
+    • 8- hdmi 
+    •  9- salida de audio
+    • 10- faiware
+    • 11- sata
+    • 12- dvi 
+    • 13- usb
+15) Displayport: define un tipo de interconexión destinado a la transmisión de Vídeo entre una computadora y su monitor.
+     Thunderbolt:  un tipo de conector de alta velocidad que hace uso de tecnología óptica.
