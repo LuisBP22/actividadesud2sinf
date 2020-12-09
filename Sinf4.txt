@@ -1,0 +1,8 @@
+    1) CPU (Central Processing Unit), es el cerebro del ordenador encargado de llevar a cabo todos los cálculos y procesos que requiere el sistema.
+    2) A la parte del 	CPU capaz de realizar los ciclos de procesamiento de instrucciones o ordenes. Un multi núcleo es un procesador que combina dos o más microprocesadores en uno solo mientras que un mono núcleo solo lleva uno y por lo tanto solo puede ejecutar un proceso a la vez.
+    3) Existe en torno a la memoria RAM que es la memoria utilizada para ejecutar un programa ya que estos deben estar almacenados en la memoria RAM.
+    4) FPU (Unidad de Coma Flotante o Floting Point Unit) es un bloque del microprocesador que se encarga de hacer las operaciones matemáticas en fracciones.
+    5) El codificador convierte la información de una forma a otra mientras que el decodificador realiza el proceso inverso y permite la recuperación de la información original. 
+    6) El frontal esta conectado directamente con el chipset mientras que le trasero esta conectado con la memoria chaché.
+    7) Existen de reloj y de boost. Un factor de multiplicación es la medida de relación entre el reloj de la CPU con el reloj externo.
+    8) Al nivel de integración de los circuitos de un procesador. El incremento de la frecuencia de trabajo, disminución de la superficie del procesador y mejora de las prestaciones del micro.
