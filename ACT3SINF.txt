@@ -5,3 +5,8 @@
 5) Intel y AMD
 6) Es la unidad aritmético-lógica y es un circuito digital que calcula operaciones aritméticas y operaciones lógicas entre dos números.
 7) Es la unidad de control, toma las instrucciones de la memoria, las decodifica y las ejecuta.
+8) Marca los instantes en los que se debe de empezar a interpretar una orden.
+9) Es una memoria en la que se almacenan los valores, datos, comandos o instrucciones que ordenan como y que dato debe procesarse. Un tipo es el registro de datos de memoria (MDR)
+10) Es una serie de cables que funcionan cargando datos en la memoria para transportarlos a la CPU. Hay USB, frontal, trasero, paralelo at, serie at, pci, pciex, agp, de memoria.
+11) Que trabaja con palabras mas pequeñas y no es capaz de gestionar mucha memoria RAM.
+12) Que trabaja con palabras mas grandes y puede hacer mas en menos tiempo.
